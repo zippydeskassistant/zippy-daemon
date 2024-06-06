@@ -1,2 +1,0 @@
-# zippy-daemon
-zippy daemon
